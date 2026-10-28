@@ -1,0 +1,8 @@
+:root{--ink:#060918;--bone:#FFF6E4;--amber:#FFB224;--muted:#A9B0BE}
+*{box-sizing:border-box}body{margin:0;background:var(--ink);color:var(--bone);font:17px/1.6 -apple-system,"Avenir Next",Segoe UI,Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:56px 24px 80px}
+img.logo{width:120px;height:120px;border-radius:24px;display:block}
+h1{font-size:40px;letter-spacing:.02em;margin:24px 0 4px}h2{font-size:20px;margin:32px 0 8px;color:var(--amber)}
+.tag{color:var(--muted);font-size:19px;margin:0 0 28px}a{color:var(--amber)}
+.btn{display:inline-block;background:var(--amber);color:var(--ink);font-weight:700;padding:12px 22px;border-radius:10px;text-decoration:none}
+footer{margin-top:56px;color:var(--muted);font-size:14px}
